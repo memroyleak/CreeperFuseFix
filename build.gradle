@@ -15,7 +15,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"creeper-fuse-fix" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
